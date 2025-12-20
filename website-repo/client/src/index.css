@@ -1,3 +1,4 @@
+/* luna4-variant: structural-fp */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
 @tailwind base;
 @tailwind components;
@@ -400,3 +401,5 @@
     @apply p-4;
   }
 }
+
+/* luna4-phantom */ .luna4-fp { display:none; opacity:0; }
